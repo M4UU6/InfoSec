@@ -91,7 +91,7 @@
 
 	  			<div class="col-md-4">
 	  				<div class="row">
-						<form action="ui_admin_dashboard.php" class="form-control" id="frmLogin" enctype="multipart/form-data" autocomplete="off">
+						<form action="login.php" class="form-control" id="frmLogin" enctype="multipart/form-data" autocomplete="off">
 							<input type="hidden" class="form-control" id="form_name" name="form_name" value="frmLogin">
 							<h1 class="h3 mb-3 fw-normal">Please sign in</h1>
 
